@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoOLED_Sim", "ArduinoOLED_Sim\ArduinoOLED_Sim.csproj", "{59FA24D0-A0E4-4F0C-9B07-32D5738AB4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FA24D0-A0E4-4F0C-9B07-32D5738AB4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FA24D0-A0E4-4F0C-9B07-32D5738AB4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FA24D0-A0E4-4F0C-9B07-32D5738AB4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FA24D0-A0E4-4F0C-9B07-32D5738AB4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE0FF52-4BB4-403C-A060-F926F1E77A30}
+	EndGlobalSection
+EndGlobal
