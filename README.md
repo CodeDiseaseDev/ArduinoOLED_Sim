@@ -11,3 +11,7 @@ you can also connect a 128x64 oled display the same way, but you will need to ch
 
 
 the arduino code is included in `computer_to_arduino_oled.ino`, it requires the `Adafruit_SSD1306` library in the library menu from the arduino IDE.
+
+
+
+code needs a tidy, but the main juicy part (`MonoChromeOLED.cs`) is clean and easy to read and change.
